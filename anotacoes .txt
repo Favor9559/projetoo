@@ -1,0 +1,30 @@
+html é uma ferramenta feita para estruturar textos imagens e links 
+css é basicamente o estilo do site ele escolhe a forma o tamanho a cor e etc de tudoque é colocado no site 
+head é a parte das configurações do site
+o body é a parte visivel do site
+identação é o recuo que ele faz na estrutura do site
+margin cria espaço em coisas que estão fora do elemento 
+padding cria espaço em coisas que estao dentro do elemento
+para adicionar um paragrafo no projeto basta colocar a tag <p>
+e para adicionar um titilo é a tag h1
+o body é tambem como se fosse o corpo do meu site
+a url é uma função que se encarrega de colocar uma imagem na pagina
+o background serve para estilizar e destacar elementos
+o background cover serve para preencher a imagem o elemento do meu site 
+e size é para deixar maior
+hight serve para adicionar altura a borda do meu elemento
+a tag ul é onde criamos listas no nosso projeto
+uma lista nao ordenada li é um item da lista e o "a"
+é o que vamos coloca
+display flesajuda a alinhar e distribuir espaço de forma facil
+O border-radius serve para deixar as bordas de algo
+ arredondadas. Por exemplo, ele transforma um quadrado em um círculo 
+ ou deixa as bordas menos "afiadas
+ O `display: block` faz o elemento ocupar a linha inteira
+  e empurrar os outros para baixo.
+ JavaScript é uma linguagem que dá vida às páginas da internet. Ele faz 
+  coisas acontecerem, como botões funcionarem, animações
+   aparecerem ou jogos rodarem no navegador. É como o cérebro de uma página!
+  Uma função é um pedaço de código que faz uma tarefa específica 
+   quando é chamado.
+  
